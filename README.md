@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-**PhishingDetect** là một ứng dụng web mạnh mẽ giúp phát hiện và ngăn chặn các cuộc tấn công email lừa đảo (phishing). Dự án sử dụng các mô hình học máy tiên tiến và kỹ thuật phân tích hiện đại để tự động quét, đánh giá mức độ rủi ro của email, bảo vệ người dùng khỏi các mối đe dọa trực tuyến.
+**PhishingDetect** là một ứng dụng web giúp phát hiện và ngăn chặn các cuộc tấn công email lừa đảo (phishing). Dự án sử dụng các mô hình học máy tiên tiến và kỹ thuật phân tích hiện đại để tự động quét, đánh giá mức độ rủi ro của email, bảo vệ người dùng khỏi các mối đe dọa trực tuyến.
 
 ---
 
