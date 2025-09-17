@@ -23,4 +23,7 @@
 - **Quét Tệp Đính Kèm**  
   Tự động quét các tệp đính kèm bằng công cụ diệt virus, phát hiện và cảnh báo về các tệp chứa mã độc trước khi người dùng mở.
 
+- **Phân tích trong Sandbox**  
+  Các tệp đính kèm và liên kết đáng ngờ sẽ được thực thi trong môi trường sandbox an toàn để quan sát hành vi, phát hiện các mối nguy hiểm tiềm ẩn mà không gây ảnh hưởng đến hệ thống thật.
+
 ---
