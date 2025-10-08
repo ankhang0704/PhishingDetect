@@ -38,7 +38,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Để tham gia phát triển dự á
 2. **Clone fork** về máy:
    ```bash
    git clone https://github.com/MrDev333/PhishingDetect
-   cd Homelander
+   cd PhishingDetect
    ```
 
 3. **Tạo branch mới** cho tính năng hoặc sửa lỗi:
