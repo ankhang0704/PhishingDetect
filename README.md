@@ -35,9 +35,8 @@ Chúng tôi hoan nghênh mọi đóng góp! Để tham gia phát triển dự á
    - Nhấn nút **Fork** ở góc trên bên phải của trang repo.  
    - Chọn tài khoản GitHub của bạn để tạo một bản sao (fork).  
    - Sau khi fork, bạn sẽ có một repo riêng trên tài khoản của mình, độc lập với repo gốc. 
-2. **Clone fork** về máy:
+2. **Clone fork** về máy:(thay "your-username" bằng tên GitHub của bạn)
    ```bash
-# Clone repo fork của bạn (thay "your-username" bằng tên GitHub của bạn)
    git clone https://github.com/your-username/PhishingDetect
    cd PhishingDetect
    ```
