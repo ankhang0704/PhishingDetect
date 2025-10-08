@@ -37,7 +37,8 @@ Chúng tôi hoan nghênh mọi đóng góp! Để tham gia phát triển dự á
    - Sau khi fork, bạn sẽ có một repo riêng trên tài khoản của mình, độc lập với repo gốc. 
 2. **Clone fork** về máy:
    ```bash
-   git clone https://github.com/MrDev333/PhishingDetect
+# Clone repo fork của bạn (thay "your-username" bằng tên GitHub của bạn)
+   git clone https://github.com/your-username/PhishingDetect
    cd PhishingDetect
    ```
 
