@@ -37,7 +37,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Để tham gia phát triển dự á
    - Sau khi fork, bạn sẽ có một repo riêng trên tài khoản của mình, độc lập với repo gốc. 
 2. **Clone fork** về máy:
    ```bash
-   git clone https://github.com/Dat2784/Homelander.git
+   git clone https://github.com/MrDev333/PhishingDetect
    cd Homelander
    ```
 
